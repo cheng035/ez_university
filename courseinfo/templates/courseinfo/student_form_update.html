@@ -1,0 +1,14 @@
+{% extends 'courseinfo/base.html' %}
+{% block title %}
+    Create Student
+{% endblock %}
+
+{% block content %}
+    <form
+        action="{{student.get_update_url}}"
+        method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+        <button type="submit"> update Student</button>
+    </form>
+{% endblock %}

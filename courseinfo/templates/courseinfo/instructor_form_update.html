@@ -1,0 +1,14 @@
+{% extends 'courseinfo/base.html' %}
+{% block title %}
+    Create Instructor
+{% endblock %}
+
+{% block content %}
+    <form
+        action="{{instructor.get_update_url}}"
+        method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+        <button type="submit"> update Instrucor</button>
+    </form>
+{% endblock %}

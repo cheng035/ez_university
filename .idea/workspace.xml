@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99532bac-9858-4235-b553-b6e6503f1ae4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="useSoftWraps" value="true" />
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="haohan_cheng_ez_university" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1XrEMuSAPH5qFyU7fVwL1V2DTX7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/templates/courseinfo/instructor_list.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Study\IS590web\haohan_cheng_ez_university\courseinfo\templates\courseinfo" />
+      <recent name="C:\Study\IS590web\haohan_cheng_ez_university\courseinfo\migrations" />
+      <recent name="C:\Study\IS590web\haohan_cheng_ez_university\courseinfo\static\courseinfo" />
+      <recent name="C:\Study\IS590web\haohan_cheng_ez_university\templates\courseinfo" />
+      <recent name="C:\Study\IS590web\haohan_cheng_ez_university\courseinfo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Study\IS590web\haohan_cheng_ez_university\courseinfo\disabled_migrations" />
+      <recent name="C:\Study\IS590web\haohan_cheng_ez_university\haohan_cheng_ez_university\requirements" />
+      <recent name="C:\Study\IS590web\haohan_cheng_ez_university\haohan_cheng_ez_university\settings" />
+      <recent name="C:\Study\IS590web\haohan_cheng_ez_university\courseinfo\templates\courseinfo" />
+      <recent name="C:\Study\IS590web\haohan_cheng_ez_university\courseinfo\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="haohan_cheng_ez_university" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="haohan_cheng_ez_university" type="Python.DjangoServer" factoryName="Django server">
+      <module name="haohan_cheng_ez_university" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99532bac-9858-4235-b553-b6e6503f1ae4" name="Default Changelist" comment="" />
+      <created>1581795768758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581795768758</updated>
+      <workItem from="1581795770912" duration="3439000" />
+      <workItem from="1581860083565" duration="466000" />
+      <workItem from="1581860559739" duration="6836000" />
+      <workItem from="1581979936566" duration="27000" />
+      <workItem from="1582391656555" duration="6605000" />
+      <workItem from="1582473512310" duration="3089000" />
+      <workItem from="1582478526796" duration="736000" />
+      <workItem from="1582952527106" duration="3092000" />
+      <workItem from="1583078166540" duration="11146000" />
+      <workItem from="1583543564852" duration="7090000" />
+      <workItem from="1583638131720" duration="712000" />
+      <workItem from="1583712568914" duration="22000" />
+      <workItem from="1583723914939" duration="858000" />
+      <workItem from="1583971357057" duration="978000" />
+      <workItem from="1584044530989" duration="19000" />
+      <workItem from="1584216419405" duration="1790000" />
+      <workItem from="1584235213112" duration="5228000" />
+      <workItem from="1584247304912" duration="287000" />
+      <workItem from="1584291789468" duration="710000" />
+      <workItem from="1584293776666" duration="5073000" />
+      <workItem from="1584302938843" duration="14676000" />
+      <workItem from="1584323332742" duration="230000" />
+      <workItem from="1584323780332" duration="115000" />
+      <workItem from="1584324073059" duration="718000" />
+      <workItem from="1584324816260" duration="73000" />
+      <workItem from="1584410015776" duration="14000" />
+      <workItem from="1585101558004" duration="6303000" />
+      <workItem from="1585109083743" duration="1039000" />
+      <workItem from="1585220140836" duration="141000" />
+      <workItem from="1585246169587" duration="910000" />
+      <workItem from="1585247140401" duration="1193000" />
+      <workItem from="1585255106530" duration="702000" />
+      <workItem from="1585275663050" duration="2463000" />
+      <workItem from="1585323435167" duration="17000" />
+      <workItem from="1585353971350" duration="215000" />
+      <workItem from="1585444153243" duration="2580000" />
+      <workItem from="1585447226265" duration="3475000" />
+      <workItem from="1585450761992" duration="1120000" />
+      <workItem from="1585456296571" duration="3538000" />
+      <workItem from="1585583372934" duration="13000" />
+      <workItem from="1585942460142" duration="1199000" />
+      <workItem from="1586029966410" duration="5836000" />
+      <workItem from="1586380649089" duration="18000" />
+      <workItem from="1586625625387" duration="6649000" />
+      <workItem from="1586743584136" duration="264000" />
+      <workItem from="1586919034992" duration="21000" />
+      <workItem from="1587220757287" duration="11534000" />
+      <workItem from="1587250138235" duration="580000" />
+      <workItem from="1587829029412" duration="4962000" />
+      <workItem from="1587846016851" duration="119000" />
+      <workItem from="1587910790968" duration="802000" />
+      <workItem from="1587911727286" duration="587000" />
+      <workItem from="1587912326026" duration="1266000" />
+      <workItem from="1587918250892" duration="12000" />
+      <workItem from="1587938708151" duration="1377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Inspections" timestamp="1587223034422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1587223034422" />
+    <state x="2264" y="341" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584318564594">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2264" y="341" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584318564594" />
+    <state x="394" y="219" width="774" height="572" key="DiffContextDialog" timestamp="1582397355512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="394" y="219" width="774" height="572" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1582397355512" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1587918261441">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587918261441" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1587846135015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587846135015" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1587846135015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587846135015" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1587846135014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587846135014" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1587846135015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587846135015" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1587846135015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587846135015" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1587846135015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587846135015" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1587846135015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587846135015" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1587846135015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587846135015" />
+    <state x="21" y="8" key="SettingsEditor" timestamp="1587939415186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2567" y="172" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584318750072" />
+    <state x="21" y="8" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587939415186" />
+    <state x="461" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1587918251752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="314" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587918251752" />
+    <state x="430" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1587833618875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2458" y="184" width="840" height="856" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584318635261" />
+    <state x="430" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587833618875" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/haohan_cheng_ez_university$manage.coverage" NAME="manage Coverage Results" MODIFIED="1587846109996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

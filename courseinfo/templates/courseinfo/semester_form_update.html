@@ -1,0 +1,14 @@
+{% extends 'courseinfo/base.html' %}
+{% block title %}
+    Create Semester
+{% endblock %}
+
+{% block content %}
+    <form
+        action="{{semester.get_update_url}}"
+        method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+        <button type="submit"> update Semester</button>
+    </form>
+{% endblock %}

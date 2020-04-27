@@ -1,0 +1,21 @@
+{% extends 'courseinfo/base.html' %}
+{% block title %}
+    Error Delete Section
+{% endblock %}
+
+{% block content %}
+    <div>
+        <h2>Error Deleting section</h2>
+        <p> cannot delete {{ section }}. This section is assigned to the following sections</p>
+        <ul>
+            {%  for registration in registrations %}
+                <li><a href ="{{ registration.get_absolute_url }}">{{ registration.student }}</a></li>
+            {% endfor %}
+        </ul>
+
+
+
+
+    </div>
+
+{% endblock %}
